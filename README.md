@@ -6,7 +6,7 @@
 
 **What are the key strengths of each person on the team?**
 
-- Barrett: 
+- Barrett: Perception, meticulous, lateral thinking
 - George: MongoDB, Testing, AWS, Authentication
 - Justin: Visualizing abstract ideas, top-down planning, Creative problem solving
 - Katy: Organization, Communication (if a little shy), Curiosity/Research
@@ -20,7 +20,7 @@
 
 **In which professional competencies do you each want to develop greater strength?**
 
-- Barrett: 
+- Barrett: Cooperation, organization, empathy
 - George: Develop better syntax, organization
 - Justin: Organization, incremental delivery
 - Katy: Problem solving, documentation
