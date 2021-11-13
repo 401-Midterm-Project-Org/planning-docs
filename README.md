@@ -142,3 +142,11 @@ Collaborators: Barrett Nance, George Mead, Justin Hamerly, Katy Roffe, and Sarah
 
 - Two reviewers to approve pull requests
 - Administrative override allowed if we have all reviewed code together or mob programmed
+
+## Images
+
+![wireframe](./images/wireframe.jpg)
+
+![domain model](./images/domainModel.jpg)
+
+![databases](./images/databases.jpg)
