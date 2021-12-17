@@ -1,6 +1,6 @@
 # Team Agreement
 
-Collaborators: Justin Hamerly, Katy Roffe, Joe Ivans, Tray Chea
+Collaborators: Justin Hamerly, Katy Roffe, Sarah Creager, George Mead, Barrett Nance
 
 ## Cooperation Plan
 
