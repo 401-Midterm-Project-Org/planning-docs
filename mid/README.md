@@ -8,8 +8,11 @@ Collaborators: Justin Hamerly, Katy Roffe, Sarah Creager, George Mead, Barrett N
 
 **What are the key strengths of each person on the team?**
 
+- Barrett: Perception, meticulous, lateral thinking
+- George: MongoDB, Testing, AWS, Authentication
 - Justin: Visualizing abstract ideas, top-down planning, Creative problem solving
 - Katy: Organization, Communication (if a little shy), Curiosity/Research
+- Sarah: Problem solving, Debugging, Quick Learner, User Empathy, Documentation
 
 **How can you best utilize these strengths in the execution of your project?**
 
@@ -19,8 +22,11 @@ Collaborators: Justin Hamerly, Katy Roffe, Sarah Creager, George Mead, Barrett N
 
 **In which professional competencies do you each want to develop greater strength?**
 
+- Barrett: Cooperation, organization, empathy
+- George: Develop better syntax, organization
 - Justin: Organization, incremental delivery
 - Katy: Problem solving, documentation
+- Sarah: Planning, estimating, technical skills
 
 **Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
 
