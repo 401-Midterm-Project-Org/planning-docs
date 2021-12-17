@@ -1,6 +1,6 @@
 # Team Agreement
 
-Collaborators: Barrett Nance, George Mead, Justin Hamerly, Katy Roffe, and Sarah Creager
+Collaborators: Justin Hamerly, Katy Roffe, Joe Ivans, Tray Chea
 
 ## Cooperation Plan
 
@@ -8,11 +8,10 @@ Collaborators: Barrett Nance, George Mead, Justin Hamerly, Katy Roffe, and Sarah
 
 **What are the key strengths of each person on the team?**
 
-- Barrett: Perception, meticulous, lateral thinking
-- George: MongoDB, Testing, AWS, Authentication
 - Justin: Visualizing abstract ideas, top-down planning, Creative problem solving
 - Katy: Organization, Communication (if a little shy), Curiosity/Research
-- Sarah: Problem solving, Debugging, Quick Learner, User Empathy, Documentation
+- Joe Ivans: Business logic validation, component integration
+- Tray Chea: Conflict Resolution, Design Concepts
 
 **How can you best utilize these strengths in the execution of your project?**
 
@@ -22,16 +21,17 @@ Collaborators: Barrett Nance, George Mead, Justin Hamerly, Katy Roffe, and Sarah
 
 **In which professional competencies do you each want to develop greater strength?**
 
-- Barrett: Cooperation, organization, empathy
-- George: Develop better syntax, organization
 - Justin: Organization, incremental delivery
 - Katy: Problem solving, documentation
-- Sarah: Planning, estimating, technical skills
+- Tray Chea: Time Management, Documentation
+- Joe Ivans: Estimation, frontend testing
 
 **Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
 
 - Morning standup sessions
 - Code reviews before things get pushed and merged
+- Mob program early sessions for groundwork
+- Task and feature work as individual, possibly pair session if needed
 
 ## Conflict Plan
 
@@ -47,7 +47,7 @@ Collaborators: Barrett Nance, George Mead, Justin Hamerly, Katy Roffe, and Sarah
 **What will your team do if one person is taking over the project and not letting the other members contribute?**
 
 - Address concerns with individual directly first
-  - we will assume that this is done out of enthusiasm and not with malicious intent
+  - We will assume that this is done out of enthusiasm and not with malicious intent
 - If issue persists, bring in Jacob as mediator
 - Work together in pair programming sessions to help avoid miscommunication with blockers
 
@@ -75,12 +75,15 @@ Collaborators: Barrett Nance, George Mead, Justin Hamerly, Katy Roffe, and Sarah
 
 **What hours will you be available to communicate?**
 
+- December 24th and December 25th are reserved non-working days
+- December 18th is a reserved non-working day for holiday family gatherings
 - 9am - 6pm officially
 - after hours as needed and agreed upon
 
 **What platforms will you use to communicate?**
 
-- Discord (primary)
+- Remo
+- Zoom
 - Slack
 
 **How often will you take breaks?**
@@ -142,11 +145,3 @@ Collaborators: Barrett Nance, George Mead, Justin Hamerly, Katy Roffe, and Sarah
 
 - Two reviewers to approve pull requests
 - Administrative override allowed if we have all reviewed code together or mob programmed
-
-## Images
-
-![wireframe](./images/wireframe.jpg)
-
-![domain model](./images/domainModel.jpg)
-
-![databases](./images/databases.jpg)
